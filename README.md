@@ -1,3 +1,8 @@
+
+I saw this repo while messing around with the Canvas of Babel.<br>
+I like the project but found the discord functionality lacking this fork is mainly to add more functionality with a discord bot.<br>
+Please support the original creator.
+
 # Witness of Babel
 
 <p float="left">
